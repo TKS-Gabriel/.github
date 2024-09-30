@@ -1,4 +1,4 @@
-# 💡 The Knowledge Society (TKS) Projects Showcase
+# 💡 The Knowledge Society (TKS) Projects Showcase - Gabriel Dalton
 
 Welcome to my TKS Projects Showcase! As a participant in The Knowledge Society (TKS), I am actively working on projects that explore cutting-edge technologies, sustainability, and innovative solutions to global challenges. This GitHub repository will serve as a collection of all the projects I develop throughout my TKS journey.
 
